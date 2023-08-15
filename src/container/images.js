@@ -4,6 +4,7 @@ import banner2 from '../assets/banner2.jpg';
 import banner3 from '../assets/banner3.jpg';
 import blog_bg from '../assets/blog_bg.jpg';
 import bg from '../assets/bg-2.png';
+import bg3 from '../assets/bg-3.png';
 import image_2 from '../assets/image_2.jpg';
 import image_3 from '../assets/image_3.jpg';
 import person_1 from '../assets/person_1.jpg';
@@ -21,7 +22,11 @@ import about_2 from '../assets/about_2.jpg';
 import menu_1 from '../assets/menu_1.jpg';
 import menu_2 from '../assets/menu_2.jpg';
 import menu_3 from '../assets/menu_3.png';
-import eating from '../assets/eating.png'
+import eating from '../assets/eating.png';
+import gyoze2 from '../assets/gyoze2.jpg';
+import gyoze from '../assets/gyoze.webp';
+import hamburger from '../assets/hamburgur.webp';
+
 export default {
     about,
     banner1,
@@ -46,5 +51,10 @@ export default {
     menu_1,
     menu_2,
     menu_3,
-    eating
+    eating,
+    bg3,
+   gyoze2,
+   gyoze,
+   hamburger
+    
 }

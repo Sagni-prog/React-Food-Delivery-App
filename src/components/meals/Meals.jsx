@@ -20,7 +20,7 @@ function Meals() {
 
       <div className='container grid grid-col-3 no-pad'>
           <div className='meals'>
-            <img src={images.banner2} className = 'meal-img' alt=''/>
+            <img src={images.gyoze2} className = 'meal-img' alt=''/>
             <div className='meal-container'>
              <div className='meal-tag'>   
              <span className='tag tag--vegetarian'>Vegetarian</span>
@@ -34,14 +34,14 @@ function Meals() {
              </div>
           </div>
           <div className='meals'>
-          <img src={images.banner1} className = 'meal-img' alt=''/>
+          <img src={images.hamburger} className = 'meal-img' alt=''/>
             <div className='meal-container'>
              <div className='meal-tag'>   
              <span className='tag tag--vegan'>Vegetarian</span>
              <span className='tag tag--paleo'>paleo </span>
 
              </div>
-             <p className='meal-title'>Japanese Gyozes</p>
+             <p className='meal-title'>USA Hamburger</p>
             
              <ul className='meal-attributes'>
                <li className='meal-attribute'><span className='check-icon'><FaFire/></span><strong>650</strong> calories</li>

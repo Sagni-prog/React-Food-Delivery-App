@@ -30,7 +30,7 @@ function Hero() {
        </div>
             </div>
             <div className='img-box'>
-                <img src= {images.bg} className = "hero-img" alt=''/>
+                <img src= {images.bg3} className = "hero-img" alt=''/>
             </div>
         </div>
     </section>   
